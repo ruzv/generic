@@ -1,3 +1,2 @@
-# generic
+# generic algorithm code in python
 
-testing how github works
